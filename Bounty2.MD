@@ -11,3 +11,5 @@ Next generational of DeFi aggregator or frontend should be powered by AI agents,
 ## Resources
 
 [Metamove framework](https://metamove.build/) an all in one framework that already integrated a lot of Aptos DeFi protocols and some popular LLMs.
+
+[AI agent powered aggregator example](https://antikythera.io/)
