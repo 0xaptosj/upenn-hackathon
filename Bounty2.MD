@@ -1,4 +1,4 @@
-# Aptos DeFi aggregator
+# Aptos AI powered DeFi aggregator
 
 ### Theme: DeFi, user facing products
 

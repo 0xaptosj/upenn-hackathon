@@ -2,6 +2,12 @@
 
 Aptos is a high performance L1 with secure and easy to use Move smart contract, ready to build the next generation of Web3 apps.
 
+[Bounty1: AI dev assistant](bounty1.MD)
+
+[Bounty2: AI powered DeFi aggregator](bounty2.MD)
+
+[Bounty3: build whatever](bounty3.MD)
+
 ### Post-Hackathon
 
 Winners of this hackathon will get a chance to interview with Aptos teams, with potential to join accelerator with supports from tier 1 VCs. We can also help with the GTM strategy and marketing if the product is ready for launch.
