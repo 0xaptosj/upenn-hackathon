@@ -10,6 +10,10 @@ An agent that can answer any questions related to building on Aptos.
 
 Train an AI model with Aptos specific data (e.g. docs, github, etc) to create a model that can answer all things related to building on Aptos. The end product should be a chat bot UI that can be integrated to aptos.dev or run as a standalone app.
 
+### Deliverables
+
+- A chat bot UI that can answer any questions related to building on Aptos.
+
 ## Resources
 
 We have a request for proposal on Aptos grant registry, you can find the training data and more resources there.
@@ -21,3 +25,7 @@ Link to be added
 Examples from other chains
 
 - Ask Sui AI on [Sui doc](https://docs.sui.io/)
+
+## Tech Stack Recommendations
+
+This bounty doesn't require you to write any Move smart contract, all you need to know is TypeScript. We recommend TypeScript and Next.js because you can do anything with it, and all our templates are in TypeScript.

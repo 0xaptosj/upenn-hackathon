@@ -12,6 +12,14 @@ We want to see more frameworks dedicated to Aptos. So you can either build a new
 
 Whatever you decided to build, you are also highly encouraged to build a simple UI to demo the features of your framework.
 
+### Deliverables
+
+- A new AI framework for Aptos, or a fork of Metamove with new features, or a new plugin for Metamove
+
 ## Resources
 
 [Metamove framework](https://metamove.build/) an all in one framework that already integrated a lot of Aptos DeFi protocols and some popular LLMs.
+
+## Tech Stack Recommendations
+
+This bounty doesn't require you to write any Move smart contract, all you need to know is TypeScript. We recommend TypeScript and Next.js because you can do anything with it, and all our templates are in TypeScript.
