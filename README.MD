@@ -28,3 +28,7 @@ Winners of this hackathon will get a chance to interview with Aptos teams, with 
 - [Aptos Learn Platform](https://learn.aptoslabs.com/en)
 - [Ethereum to Aptos Cheatsheet](https://aptos.dev/en/build/get-started/ethereum-cheatsheet)
 - [Solana to Aptos Cheatsheet](https://aptos.dev/en/build/get-started/solana-cheatsheet)
+
+### Appendix
+
+[2024 hackathon](https://github.com/aabdel0181/PBCBounties24)
